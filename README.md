@@ -1,2 +1,3 @@
-# PLE-rrf-harness
-PLE Harness with Recursive Research Agent
+# PLE Harness
+
+Harness for PLE benchmark with Recursive Research Framework. This is for engineering purposes.
